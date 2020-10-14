@@ -1,5 +1,5 @@
 """
-Algoritmo de substituição de páginas ótimo feito em Python apresentado ao Professor Ricardo Piantola
+Algoritmo de substituição de páginas feito em Python apresentado ao Professor Ricardo Piantola
 da Unip Campus Paraíso. Sistemas de Informação, TURMA SI5P68
 
                                                                                 Gabriel Maia - N3610F-8
